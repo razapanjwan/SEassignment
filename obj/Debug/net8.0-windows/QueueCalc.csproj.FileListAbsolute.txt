@@ -1,0 +1,14 @@
+D:\SEassignment\obj\Debug\net8.0-windows\QueueCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEassignment\obj\Debug\net8.0-windows\QueueCalc.AssemblyInfoInputs.cache
+D:\SEassignment\obj\Debug\net8.0-windows\QueueCalc.AssemblyInfo.cs
+D:\SEassignment\obj\Debug\net8.0-windows\QueueCalc.csproj.CoreCompileInputs.cache
+D:\SEassignment\bin\Debug\net8.0-windows\QueueCalc.exe
+D:\SEassignment\bin\Debug\net8.0-windows\QueueCalc.deps.json
+D:\SEassignment\bin\Debug\net8.0-windows\QueueCalc.runtimeconfig.json
+D:\SEassignment\bin\Debug\net8.0-windows\QueueCalc.dll
+D:\SEassignment\bin\Debug\net8.0-windows\QueueCalc.pdb
+D:\SEassignment\obj\Debug\net8.0-windows\QueueCalc.dll
+D:\SEassignment\obj\Debug\net8.0-windows\refint\QueueCalc.dll
+D:\SEassignment\obj\Debug\net8.0-windows\QueueCalc.pdb
+D:\SEassignment\obj\Debug\net8.0-windows\QueueCalc.genruntimeconfig.cache
+D:\SEassignment\obj\Debug\net8.0-windows\ref\QueueCalc.dll
